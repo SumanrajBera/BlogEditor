@@ -1,0 +1,37 @@
+.container {
+    flex: 1;
+}
+
+
+.f-info {
+    background-color: #272932!important;
+    color: #fff;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    background-color: #ebebeb;
+    height: 8rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.f-info_socials {
+    width: 100%;
+}
+
+.f-info_socials a{
+    color: #fff;
+}
+
+.f-info_socials a:hover{
+    color: blue;
+}
+
+.f-info_socials i{
+    font-size: 1.2rem;
+}
+
+.f-info_socials a+a{
+    margin-left: 1em;
+}

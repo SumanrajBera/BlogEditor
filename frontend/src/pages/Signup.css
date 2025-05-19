@@ -1,0 +1,14 @@
+h2 {
+    font-weight: 700;
+}
+
+form {
+    border: 1px solid#D3D3D3;
+    padding:1em;
+    border-radius: 5px;
+    box-shadow: 0 0 5px 5px#D3D3D3;
+}
+
+form label {
+    font-weight: 600;
+}
